@@ -1,4 +1,4 @@
-# Spotify Persian Artists DataMining Project
+# Persian Spotify
 
 In this project, we want to perform data analysis and several prediction tasks on a dataset of Persian music in Spotify. These tasks include:
 * Data analysis
